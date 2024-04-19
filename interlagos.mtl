@@ -1,0 +1,1416 @@
+newmtl redbuild_windows
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 5 5 5
+Ns 440
+illum 2
+map_Kd texture\redbuild_windows.dds
+
+newmtl portaopreto
+Ka 0.1 0.1 0.1
+Kd 0.1 0.1 0.1
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\GARAGE_DOOR_brilho.dds
+
+newmtl Material_#5166
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 5 5 5
+Ns 220
+illum 2
+map_Kd texture\windows_1.dds
+
+newmtl racecontrol_white
+Ka 0.2 0.2 0.2
+Kd 0.15 0.15 0.15
+Ks 0.05 0.05 0.05
+Ns 150
+illum 2
+map_Kd texture\gstands_supports.dds
+
+newmtl box_vidro
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 5 5 5
+Ns 440
+illum 2
+map_Kd texture\brz_pit_controltower_a_d.dds
+
+newmtl vidro_predio
+Ka 0.5 0.5 0.5
+Kd 0.2 0.2 0.2
+Ks 5 5 5
+Ns 440
+illum 2
+map_Kd texture\brz_pit_garages_b_d.dds
+
+newmtl Material_#5384
+Ka 0.35 0.35 0.35
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 50
+illum 2
+map_Kd texture\suport_df.dds
+bump texture\suport_nm.dds
+
+newmtl portaobrilho
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.1 0.1 0.1
+Ns 40
+illum 2
+map_Kd texture\GARAGE_DOOR_brilho.dds
+bump texture\GARAGE_DOOR_brilhoNM.dds
+
+newmtl agua
+Ka 0.18 0.18 0.18
+Kd 0.18 0.18 0.18
+Ks 2 2 2
+Ns 440
+illum 2
+map_Kd texture\WATERBUMP_003.DDS
+map_Ks texture\WATER_S.DDS
+bump texture\flat_nm.dds
+
+newmtl TAPETE
+Ka 1 1 1
+Kd 0.6 0.6 0.6
+Ks 0.035 0.035 0.035
+Ns 20
+illum 2
+map_Kd texture\carpet-detail.dds
+map_Ks texture\rmblg.dds
+bump texture\RMBLA_B.DDS
+
+newmtl roadpits
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.01 0.01 0.01
+Ns 50
+illum 2
+map_Kd texture\concrete_detail4.dds
+map_Ks texture\roadpits.dds
+bump texture\flat_nm.dds
+
+newmtl structures
+Ka 0.35 0.35 0.35
+Kd 0.38 0.38 0.38
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\structures.dds
+
+newmtl gstands_3_fence_chroma
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\gstands_3_fence.dds
+
+newmtl gstands_3_fence_1
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\gstands_3_fence.dds
+
+newmtl box_alpha
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 15
+illum 2
+map_Kd texture\brz_pit_controltower_a_d.dds
+
+newmtl pit_garage_alpha
+Ka 0.58 0.58 0.58
+Kd 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+Ns 25
+illum 2
+map_Kd texture\brz_pit_garages_alphaaa.dds
+
+newmtl brz_pit_garages_b
+Ka 0.5 0.5 0.5
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_pit_garages_b_d.dds
+
+newmtl material_#14
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_grandstand_bracket_01_d.dds
+
+newmtl groove
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 0.03 0.03 0.03
+Ns 50
+illum 2
+map_Kd texture\testgroove2.dds
+
+newmtl roadseam
+Ka 0.5 0.5 0.5
+Kd 0.45 0.45 0.45
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadseam.dds
+
+newmtl fencea
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\fencea.dds
+
+newmtl cmwallc
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\cmwalla_rust.dds
+
+newmtl startlight_gantry_wires
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\startlight_gantry_wires.dds
+
+newmtl fenceb
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\fenceb.dds
+
+newmtl gstands_supports_chroma
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 0.1 0.1 0.1
+Ns 50
+illum 2
+map_Kd texture\gstands_supports.dds
+
+newmtl gstands_supports
+Ka 0.2 0.2 0.2
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+Ns 15
+illum 2
+map_Kd texture\gstands_supports.dds
+
+newmtl gstands_fence
+Ka 0.3 0.3 0.3
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_fence.dds
+
+newmtl gstands_fence_chroma
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_fence.dds
+
+newmtl gstands_seats
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_seats.dds
+
+newmtl fencec
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\fencec.dds
+
+newmtl t56_build_white_cememt
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\tower_base.dds
+
+newmtl t56_build_roof
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\footbridge_cement_panels.dds
+
+newmtl t56_build_walls
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.01 0.01 0.01
+Ns 15
+illum 2
+map_Kd texture\gstands_boxes.dds
+
+newmtl radiotowerfence2
+Ka 0.5 0.5 0.5
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\bigradio.dds
+
+newmtl radiotower_fence
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\fencec.dds
+
+newmtl radiotower_metal
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 15
+illum 2
+map_Kd texture\grey_metal.dds
+
+newmtl houses
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\houses.dds
+
+newmtl flats_new_1
+Ka 0.35 0.35 0.35
+Kd 0.28 0.28 0.28
+Ks 0 0 0
+Ns 15
+illum 2
+map_Kd texture\flats_4.dds
+
+newmtl flats_3
+Ka 0.35 0.35 0.35
+Kd 0.25 0.25 0.25
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\flats_3.dds
+
+newmtl flats_2
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\flats_2.dds
+
+newmtl floodlight_lamp
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\garage_lighting.dds
+
+newmtl paddock_light_metal
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 50
+illum 2
+map_Kd texture\grey_metal.dds
+
+newmtl outerbuilds
+Ka 0.35 0.35 0.35
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\outerbuildings.dds
+
+newmtl Material_#5258
+Ka 0.4 0.4 0.4
+Kd 0.45 0.45 0.45
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\riomorro.dds
+
+newmtl redbuild_supports
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\redbuild_support.dds
+
+newmtl redbuild_bricks
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0.1 0.1 0.1
+Ns 15
+illum 2
+map_Kd texture\redbuild_bricks.dds
+
+newmtl bgbuildingsa
+Ka 0.35 0.35 0.35
+Kd 0.38 0.38 0.38
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\bgbuildingsa.dds
+
+newmtl flats_4
+Ka 0.3 0.3 0.3
+Kd 0.32 0.32 0.32
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\flats_4.dds
+
+newmtl flats_5
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\flats_5.dds
+
+newmtl flats_1
+Ka 0.45 0.45 0.45
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\flats_1.dds
+
+newmtl gstands1
+Ka 0.28 0.28 0.28
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 15
+illum 2
+map_Kd texture\gstands1.dds
+
+newmtl watertower
+Ka 0.5 0.5 0.5
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 25
+illum 2
+map_Kd texture\watertower.dds
+
+newmtl concrete_structures_2_building
+Ka 0.3 0.3 0.3
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\garage_floor.dds
+
+newmtl concrete_stuctures_2_cement
+Ka 0.3 0.3 0.3
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\gstands_cement.dds
+
+newmtl racecontrol_bars
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\white_bars.dds
+
+newmtl MultiMat_134_Slot_#1
+Ka 0.2 0.2 0.2
+Kd 0 0 0
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\SRPL_EMPTY.DDS
+
+newmtl pit_roof
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\garage_floor.dds
+
+newmtl gstand_3_cement_2
+Ka 0.32 0.32 0.32
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\gstands_3_cement.dds
+
+newmtl pitbuild_tower
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\pitbuild_tower.dds
+
+newmtl gseseatsa
+Ka 0.38 0.38 0.38
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\grandsstandea.dds
+
+newmtl tvscreen
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\tvscreen.dds
+
+newmtl radiotower
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\startlight_gantry.dds
+
+newmtl solid
+Ka 0.45 0.45 0.45
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 50
+illum 2
+map_Kd texture\brz_pit_controltower_a_d.dds
+
+newmtl pit_teto
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\brz_pit_garages_c_d.dds
+
+newmtl predioparede
+Ka 0.45 0.45 0.45
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 25
+illum 2
+map_Kd texture\brz_pit_garages_b_d.dds
+
+newmtl cement_no_ao
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_wall_sides.dds
+
+newmtl misc_unique
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\misc_unique.dds
+
+newmtl whitepanel
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\white_trim.dds
+
+newmtl conc_gfloor
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_floor.dds
+
+newmtl garage_walls_sides
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_wall_sides.dds
+
+newmtl garage_interior_backwall
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_backwall.dds
+
+newmtl cement_trim_horizontal
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\cement_trim_horizontal.dds
+
+newmtl cement_trim_post
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\cement_trim_post.dds
+
+newmtl material_#1!0
+Ka 0.45 0.45 0.45
+Kd 0.45 0.45 0.45
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_pit_buildings_b_d.dds
+
+newmtl standard_1
+Ka 0.45 0.45 0.45
+Kd 0.45 0.45 0.45
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_pit_gantry_a_d.dds
+
+newmtl advert_side_a
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\advert_side_a_d.dds
+
+newmtl mtr_prefab_podium_a
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\mtr_prefab_podium_a_d.dds
+
+newmtl brz_radio_building_a_tx
+Ka 0.45 0.45 0.45
+Kd 0.45 0.45 0.45
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_radio_building_a_d.dds
+
+newmtl material_#15
+Ka 0.3 0.3 0.3
+Kd 0.28 0.28 0.28
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_grandstand_small_h_d.dds
+
+newmtl grasscreteverge
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadverge_grass.dds
+
+newmtl roadverge
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadverge.dds
+
+newmtl rmblc
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\rmblb.dds
+
+newmtl rmbga
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\rmbla.dds
+
+newmtl rmbla
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\rmbla.dds
+
+newmtl concdrainc
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\drainc.dds
+
+newmtl concdrain1
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\draina.dds
+
+newmtl concdrainb
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\drainb.dds
+
+newmtl rdilr
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadr.dds
+
+newmtl walla
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\walla.dds
+
+newmtl wallc
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\wallc.dds
+
+newmtl distmarker
+Ka 0.35 0.35 0.35
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\DISTMARKER2.dds
+
+newmtl rdils
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roads.dds
+
+newmtl material_#447
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_floor.dds
+
+newmtl silverbars
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\silver_bars.dds
+
+newmtl pitwlfloor
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\pitwlfloor.dds
+
+newmtl marshut_fence
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\marshut_fence.dds
+
+newmtl marshut
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\marshut.dds
+
+newmtl pr_bluepanel
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\blue_panels.dds
+
+newmtl pr_brickwall
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\wall_bricks.dds
+
+newmtl prhousefront
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\prhousefront.dds
+
+newmtl rdilolda
+Ka 0.3 0.3 0.3
+Kd 0.25 0.25 0.25
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadolda.dds
+
+newmtl armcob
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\armcob.dds
+
+newmtl xsec
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roada_spec.dds
+
+newmtl cmwalla
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\cmwalla.dds
+
+newmtl wallda
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\walld.dds
+
+newmtl pr_support
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\prsupport.dds
+
+newmtl genshadow
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\white.dds
+
+newmtl gstands_petro
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\reiza_logo.dds
+
+newmtl advertisements
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\ADVERTISEMENTS2.dds
+
+newmtl startlight_poles
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\starting_light.dds
+
+newmtl advertisements2
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\ADVERTISEMENTS2.dds
+
+newmtl twalla
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\tyrewalls.dds
+
+newmtl gstands_boxes
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_boxes.dds
+
+newmtl gstands_boxes_ao
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_boxes.dds
+
+newmtl gstands_roof
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\white_trim.dds
+
+newmtl gstands_cement
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_cement.dds
+
+newmtl gsdseatsa
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\grandsstandda.dds
+
+newmtl wallb
+Ka 0.35 0.35 0.35
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\wallb.dds
+
+newmtl startlight_gantry
+Ka 0.3 0.3 0.3
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\startlight_gantry.dds
+
+newmtl gstands_t6_metal
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\white_trim.dds
+
+newmtl gstands_t6_steps
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_2_steps.dds
+
+newmtl gstands_t6_cement
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_cement.dds
+
+newmtl cmwallb
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\cmwallb.dds
+
+newmtl lightmats
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\lights.dds
+
+newmtl armcoa
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\armco.dds
+
+newmtl tents
+Ka 0.3 0.3 0.3
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\pitbuild_tents.dds
+
+newmtl gstands_3_fence
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_3_fence.dds
+
+newmtl concrete_structures_building
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\garage_floor.dds
+
+newmtl concrete_stuctures_cement
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_cement.dds
+
+newmtl concrete_structure_building
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\tower_base.dds
+
+newmtl pwallmetal
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\pwallmetal.dds
+
+newmtl armcopost
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\armcopost.dds
+
+newmtl support_beams
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\support_beams.dds
+
+newmtl stall_numbers_1
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\stall_numbers_1.dds
+
+newmtl stall_numbers_2
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\stall_numbers_2.dds
+
+newmtl footbridge_steps_chroma
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\footbridge_steps.dds
+
+newmtl footbrige_steps
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\footbridge_steps.dds
+
+newmtl footbridge_pillars
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\footbridge_pillars.dds
+
+newmtl footbridge_cement_panels
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\footbridge_cement_panels.dds
+
+newmtl fencepole
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\fencepole.dds
+
+newmtl gstands_stairs
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_steps.dds
+
+newmtl gstands_steps_2
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_2_steps.dds
+
+newmtl material_#436
+Ka 0.33 0.33 0.33
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_cement.dds
+
+newmtl material_#487
+Ka 0.35 0.35 0.35
+Kd 0.33 0.33 0.33
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\white_trim.dds
+
+newmtl gstands_wcement
+Ka 0.32 0.32 0.32
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_3_cement.dds
+
+newmtl transparent
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\floodlights.dds
+
+newmtl illum
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\floodlights.dds
+
+newmtl main
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\floodlights.dds
+
+newmtl Material_#5387
+Ka 0.55 0.55 0.55
+Kd 0.4 0.4 0.4
+Ks 0.9 0.9 0.9
+Ns 10
+illum 2
+map_Kd texture\external-ac.dds
+
+newmtl Material_#5386
+Ka 0.65 0.65 0.65
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+Ns 10
+illum 2
+map_Kd texture\external-ac.dds
+
+newmtl Material_#5165
+Ka 0.45 0.45 0.45
+Kd 0.55 0.55 0.55
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\external-ac.dds
+
+newmtl rdlna
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\roadln.dds
+
+newmtl concw
+Ka 0.3 0.3 0.3
+Kd 0.25 0.25 0.25
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+map_Kd texture\cement_white.dds
+
+newmtl creteg
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\rmblg.dds
+
+newmtl roadd
+Ka 0.55 0.55 0.55
+Kd 0.4 0.4 0.4
+Ks 0.2 0.2 0.2
+Ns 20
+illum 2
+map_Kd texture\roadd.dds
+
+newmtl rdily
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\roady.dds
+
+newmtl rdilws
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.3 0.3 0.3
+Ns 20
+illum 2
+map_Kd texture\roadpe.dds
+
+newmtl rdmarblesa
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+map_Kd texture\roadanl.dds
+
+newmtl rdmarblessf
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.3 0.3 0.3
+Ns 20
+illum 2
+map_Kd texture\roadgrid.dds
+
+newmtl roadsf
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.3 0.3 0.3
+Ns 20
+illum 2
+map_Kd texture\roadgrid.dds
+
+newmtl roadanl
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.1 0.1 0.1
+Ns 20
+illum 2
+map_Kd texture\roadanl.dds
+
+newmtl rdilblue
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\roadb.dds
+
+newmtl rdilgreen
+Ka 0.25 0.25 0.25
+Kd 0.25 0.25 0.25
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\roadg.dds
+
+newmtl inerfield
+Ka 0.55 0.55 0.55
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\external-ac.dds
+
+newmtl roada
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0.2 0.2 0.2
+Ns 20
+illum 2
+map_Kd texture\roada.dds
+
+newmtl rdilblack
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.05 0.05 0.05
+Ns 20
+illum 2
+map_Kd texture\roadc.dds
+
+newmtl grassv2a
+Ka 0.35 0.35 0.35
+Kd 0.45 0.45 0.45
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\grass2_D.dds
+
+newmtl Material_#5163
+Ka 0.25 0.25 0.25
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\interlagos_land.dds
+
+newmtl Material_#5385
+Ka 0.35 0.35 0.35
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\Pelotas.dds
+
+newmtl pit_toldo
+Ka 0.5 0.5 0.5
+Kd 0.4 0.4 0.4
+Ks 0.05 0.05 0.05
+Ns 15
+illum 2
+map_Kd texture\brz_pit_garages_alphaaa.dds
+
+newmtl tree_2
+Ka 0.25 0.25 0.25
+Kd 0.32 0.32 0.32
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\trees2b.dds
+
+newmtl trees
+Ka 0.42 0.42 0.42
+Kd 0.34 0.34 0.34
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\trees_B.dds
+
+newmtl pit-glass
+Ka 1 1 1
+Kd 0.25 0.25 0.25
+Ks 0.5 0.5 0.5
+Ns 150
+illum 2
+map_Kd texture\brz_pit_garages_alphaaa.dds
+
+newmtl gstands_seats_chroma
+Ka 0.4 0.4 0.4
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 20
+illum 2
+map_Kd texture\gstands_seats.dds
+
+newmtl bushes
+Ka 0.28 0.28 0.28
+Kd 0.35 0.35 0.35
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\trees.dds
+
+newmtl BBGRASS
+Ka 0.24 0.24 0.24
+Kd 0.25 0.25 0.25
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\BBgrass4.dds
+
